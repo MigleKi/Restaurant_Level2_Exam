@@ -1,0 +1,7 @@
+1,4,Occupied
+2,2,Vacant
+3,6,Occupied
+4,2,Vacant
+5,4,Occupied
+6,2,Occupied
+7,5,Vacant

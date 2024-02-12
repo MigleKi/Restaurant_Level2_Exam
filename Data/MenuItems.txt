@@ -1,0 +1,20 @@
+1,Pizza,10.99,Food
+2,Soda,2.49,Drink
+3,Burger,8.49,Food
+4,Spaghetti,12.99,Food
+5,Steak,19.99,Food
+6,Chicken Curry,14.49,Food
+7,Caesar Salad,8.99,Food
+8,Fish and Chips,10.99,Food
+9,Sushi,16.99,Food
+10,Macaroni and Cheese,9.99,Food
+11,Pho,11.49,Food
+12,Hamburger,8.99,Food
+13,Hot Dog,6.49,Food
+14,Coke,1.99,Drink
+15,Pepsi,1.99,Drink
+16,Lemonade,2.49,Drink
+17,Iced Tea,2.49,Drink
+18,Orange Juice,2.99,Drink
+19,Apple Juice,2.99,Drink
+20,Beer,4.99,Drink

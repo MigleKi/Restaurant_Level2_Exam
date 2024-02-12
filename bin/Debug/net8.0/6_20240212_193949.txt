@@ -1,0 +1,8 @@
+Table ID: 6
+Number of Seats: 2
+Date and Time of Order: 12/02/2024 19:39:49
+Ordered Food Items:
+Pizza	10.99  EUR
+Ordered Drink Items:
+Lemonade	2.49 EUR
+Total Amount: 13.48 EUR

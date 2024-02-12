@@ -1,0 +1,14 @@
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\bin\Debug\net8.0\Restaurant.exe
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\bin\Debug\net8.0\Restaurant.deps.json
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\bin\Debug\net8.0\Restaurant.runtimeconfig.json
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\bin\Debug\net8.0\Restaurant.dll
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\bin\Debug\net8.0\Restaurant.pdb
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\Restaurant.AssemblyInfo.cs
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\Restaurant.dll
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\refint\Restaurant.dll
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\Restaurant.pdb
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\Restaurant.genruntimeconfig.cache
+C:\Users\migle\OneDrive\Documents\Codeacademy\Level2_tasks\Exam\obj\Debug\net8.0\ref\Restaurant.dll

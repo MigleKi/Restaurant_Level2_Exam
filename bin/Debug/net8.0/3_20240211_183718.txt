@@ -1,0 +1,8 @@
+Table ID: 3
+Number of Seats: 6
+Date and Time of Order: 11/02/2024 18:37:18
+Ordered Food Items:
+Hot Dog	6.49  EUR
+Ordered Drink Items:
+Beer	4.99 EUR
+Total Amount: 11.48 EUR
